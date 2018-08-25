@@ -1,0 +1,6 @@
+Ruby on Rails	Dave Jones	2000
+Ruby off Rails	Joe Shmoe	20
+Pragmatic Programming with Ruby	Dave Thomas	255
+Pragmatic Rails	Dave Thomas, Chad Fowlwer	500
+Beginning Ruby	Peter Cooper	750
+Virtual Quickstart Guide to Ruby	Larry Ullman	300
